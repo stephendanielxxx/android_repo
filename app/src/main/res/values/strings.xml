@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pokemon Project</string>
+    <string name="click_me">Click Me !!!</string>
+    <string name="hello">hello</string>
+    <string name="welcome">Welcome !!</string>
+    <string name="random_animal_fact">Random Animal Fact :</string>
+
+</resources>

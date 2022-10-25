@@ -9,6 +9,7 @@ import com.ideaco.projectdia.databinding.ActivityConstraintLayoutBinding
 class ConstraintLayoutActivity : AppCompatActivity() {
 
     // comment untuk di commit
+    // coba commit ke 2
     private lateinit var binding: ActivityConstraintLayoutBinding
 //    private lateinit var button: Button
 

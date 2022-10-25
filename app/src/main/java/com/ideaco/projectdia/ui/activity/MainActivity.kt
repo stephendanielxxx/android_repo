@@ -12,6 +12,7 @@ import com.ideaco.projectdia.ui.fragment.SettingFragment
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
+    //comment dari sandy
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
